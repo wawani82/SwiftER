@@ -1,4 +1,4 @@
 # SwiftER
 Elastic Erasure Coded Storage System
 
-The source codes and documentation on how to deploy our implementation with Openstack Swift.
+This source codes is about Elastic Erasure code for (8,12)  
