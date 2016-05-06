@@ -8,7 +8,9 @@ Once you have installed Jerasure library (https://bitbucket.org/jimplank/jerasur
 Install Jerasure
 =====================
 ./configure
+
 make
+
 make install
 
 The example programs are in the directory Examples. The source code is in the directory src.
