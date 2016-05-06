@@ -5,6 +5,8 @@ This source codes is for Elastic Erasure code (8,12)
 
 Once you have installed Jerasure library (https://bitbucket.org/jimplank/jerasure), the original source codes could be replaced by our codes so that we can run our codes on Jerasure library.
 
+Install Jerasure
+
   Install Jerasure
   ======================
   # ./configure 
