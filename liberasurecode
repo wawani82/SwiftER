@@ -1,2 +1,0 @@
-
-liberasurecode is an Erasure Code API library written in C with pluggable Erasure Code backends such as Jerasure. liberasurecode uses Dynamically Loaded (DL) libraries to realize a true 'plugin' architecture. This also allows one to build liberasurecode indepdendent of the Erasure Code backend libraries 
